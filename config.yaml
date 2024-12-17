@@ -1,0 +1,6 @@
+github_api_url: https://api.github.com
+repo_owner: Pucjers
+repo_name: test_rep
+github_token: 
+server_url: http://localhost:5000
+commit_sha: 162ffaa8b9a61cc32ebad089e662fe4bf8963d0f
